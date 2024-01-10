@@ -6,5 +6,7 @@ Make sure Nodejs and Mongodb is installed in your system.
 Upon installing Nodejs and Mongodb we have to install all the dependencies in our system to make sure the code is running.
 
 To install all the dependicies: npm install
+
 To start the server: node app.js
+
 Visit your local host in your favourite browser: https://localhost:3000
